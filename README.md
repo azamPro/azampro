@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Azam Alkhodiriy</h1>
 <h3 align="center">a Frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azampro&label=Profile%20views&color=0e75b6&style=flat" alt="azampro" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azampro&label=Profile%20views&color=0e75b6&style=flat" alt="azampro_" /> </p>
 
-<p align="left"> <a href="https://twitter.com/azampro" target="blank"><img src="https://img.shields.io/twitter/follow/azampro?logo=twitter&style=for-the-badge" alt="azampro" /></a> </p>
+<p align="left"> <a href="https://twitter.com/azampro_" target="blank"><img src="https://img.shields.io/twitter/follow/azampro?logo=twitter&style=for-the-badge" alt="azampro" /></a> </p>
 
 - 💬 Ask me about **front-end**
 
